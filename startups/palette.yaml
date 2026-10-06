@@ -37,6 +37,9 @@ platforms:
 logo:
   path: logo.png
   alt: Palette's dark paint palette with three purple dots on a white square
+gallery:
+  - path: product.png
+    alt: The Palette homepage, "Media that sells", a self-improving multimodal studio
 sources:
   - url: https://palettelabs.com/
     title: Palette official website
